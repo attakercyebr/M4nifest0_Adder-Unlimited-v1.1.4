@@ -31,7 +31,7 @@
 
 - 📌 Ability to Scraper  private groups.
 
-#####  Update For V1.1.1 To V 1.2.2 To V 1.2.3 To V 1.2.4
+#####  Update For V1.0.0 To V 1.1.2 To V 1.1.3 To V 1.1.4
 ----------------------
 📌 Version M4nifest0_Adder-Unlimited v1.1.4
 
